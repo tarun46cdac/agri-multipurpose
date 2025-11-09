@@ -48,4 +48,4 @@ It performs seed sowing, pesticide spraying, irrigation, and grass cutting, all 
 ![Robot side View](docs/README-images/side-view.jpg.jpg)
 ![Blynk UI Screenshot](docs/README-images/blynk.jpg.png)
 ![circuit](docs/README-images/circuit.jpg.png)
-![Block diagram](docs/README-images/block-diagram.jpg.png)
+![Block diagram](docs/README-images/Block-diagram.jpg.png)
