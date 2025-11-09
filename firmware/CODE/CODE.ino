@@ -1,10 +1,3 @@
-/*
- *  seedsowingrobot@gmailos.com
- *  1234567890
- */
-
-
-
 
 #define BLYNK_TEMPLATE_ID           "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME         "YOUR_TEMPLATE_NAME"
@@ -150,3 +143,4 @@ void Lcd_Decimal4(unsigned char col, unsigned char row,unsigned int dispVal)
     lcd.setCursor(col+3,row);lcd.print(ones);
     
 }
+
