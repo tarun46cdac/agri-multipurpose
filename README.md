@@ -44,8 +44,8 @@ It performs seed sowing, pesticide spraying, irrigation, and grass cutting, all 
 7. Open Blynk app and control the robot.
 
 ## Photos
-![Robot Front View](docs/README-images/front-view.jpg)
-![Robot side View](docs/README-images/side-view.jpg)
-![Blynk UI Screenshot](docs/README-images/blynk.jpg)
-![circuit](docs/README-images/circuit.jpg)
-![Block diagram](docs/README-images/block-diagram.jpg)
+![Robot Front View](docs/README-images/front-view.jpg.jpg)
+![Robot side View](docs/README-images/side-view.jpg.jpg)
+![Blynk UI Screenshot](docs/README-images/blynk.jpg.png)
+![circuit](docs/README-images/circuit.jpg.png)
+![Block diagram](docs/README-images/block-diagram.jpg.png)
