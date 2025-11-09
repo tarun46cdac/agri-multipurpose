@@ -1,0 +1,21 @@
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+
+# Arduino compiled files
+*.bin
+*.elf
+*.map
+
+# Build directories
+.build/
+.pio/
+.vscode/
+
+# Mac or Windows auto files
+.DS_Store
+Thumbs.db
+
+# Ignore personal secret file
+firmware/secrets.h
